@@ -61,3 +61,6 @@ $ docker restart n8n
 #21. open n8n at browset with new domain
 
 ```
+
+### Instruction
+- (medium)[https://andriantriputra.medium.com/n8n-how-to-deploy-n8n-with-docker-96c43fa8ade0]
