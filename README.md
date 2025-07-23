@@ -4,7 +4,7 @@
 This repo provides a install n8n to **vps** and **local** using **docker compose**.
 
 
-## 🚀 Getting Starte
+## 🚀 Getting Started
 ```bash
 # clone this git
 $ git clone https://github.com/andriantp/n8n_docker.git n8n
@@ -63,4 +63,4 @@ $ docker restart n8n
 ```
 
 ### Instruction
-- (medium)[https://andriantriputra.medium.com/n8n-how-to-deploy-n8n-with-docker-96c43fa8ade0]
+- [medium](https://andriantriputra.medium.com/n8n-how-to-deploy-n8n-with-docker-96c43fa8ade0)
